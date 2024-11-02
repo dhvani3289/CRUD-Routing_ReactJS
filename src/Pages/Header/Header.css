@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    background-color: black;
+    height: 50px;
+    padding: 10px 10px 10px 20px;
+}
+
+.header a {
+    text-decoration: none;
+    font-size: 21px;
+    color: floralwhite;
+}

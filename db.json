@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "id": "cb25",
+      "username": "chavi",
+      "email": "m@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "hobbies": [
+        "painting",
+        "cricket",
+        "dance"
+      ],
+      "gender": "female"
+    },
+    {
+      "id": "78ff",
+      "username": "dhvaannniiii",
+      "email": "dhvani812@gmail.com",
+      "password": "hef",
+      "confirmPassword": "gwqb",
+      "gender": "female",
+      "hobbies": [
+        "painting",
+        "cricket"
+      ]
+    },
+    {
+      "id": "7a22",
+      "username": "hjewg",
+      "email": "ge@sehgfv.in",
+      "password": "123456789@",
+      "confirmPassword": "123456789@",
+      "gender": "female",
+      "hobbies": [
+        "painting"
+      ]
+    },
+    {
+      "id": "2305",
+      "username": "hjewg",
+      "email": "ge@sehgfv.in",
+      "password": "123456789@",
+      "confirmPassword": "123456789@",
+      "gender": "female",
+      "hobbies": [
+        "painting"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+a{
+    text-decoration: none;
+}
+
+.search,
+.sorting{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.search input,
+.search button{
+    padding: 5px 15px;
+}
+
+.sorting{
+    gap: 10px;
+}
+
+.sorting select{
+    padding: 7px;
+}
+
+.records{
+    margin-top: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.records .main-row{
+    background-color: whitesmoke;
+    color: #ff006e;
+}
+
+.records tr{
+background: whitesmoke;
+color: #2b2b2bdd;
+/* background-color: #edf2f4; */
+}
+
+.actions{
+    display: flex;
+    gap: 10px;
+}
+
+.actions a,
+.actions button{
+    border: none;
+    padding: 5px;
+    cursor: pointer;
+    color: rebeccapurple;
+    background-color: plum;
+}

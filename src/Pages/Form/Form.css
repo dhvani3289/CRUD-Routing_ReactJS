@@ -1,0 +1,62 @@
+.register-form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* margin: 40px 0px; */
+    background-color: #ffb5c2;
+    height: 95vh;
+}
+
+.box {
+    min-width: 400px;
+    /* border: 3px solid gainsboro; */
+    padding: 20px;
+    background-color: #fffcf7;
+    color: #e48293;
+    border-radius: 10px;
+}
+
+.box h2 {
+    padding: 10px;
+}
+
+.box input {
+    margin: 10px 0px;
+    padding: 7px;
+}
+
+.box input[type="text"],
+.box input[type="email"],
+.box input[type="password"] {
+    display: flex;
+    width: 100%;
+}
+
+.box .gender,
+.box .hobbies {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    gap: 8px;
+}
+
+.box .gender label,
+.box .hobbies label {
+
+    font-size: 17px;
+}
+
+.register-btn {
+    border: none;
+    font-size: 15px;
+    width: 100%;
+    margin-top: 8px;
+    padding: 7px;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.register-btn:hover{
+    background-color:#e48293;
+    color: #fffcf7;
+}
